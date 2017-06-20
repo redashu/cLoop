@@ -2,7 +2,8 @@
 
 
 def  motd():
-	print  "Hello world"
+	print  "Hello world "
+	print   "fine"
 
 
 
